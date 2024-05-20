@@ -1,2 +1,3 @@
 # hello-world
-This repository is for practising the Github Flow.
+my name is Kouki Ogura.
+I like to sleep.
